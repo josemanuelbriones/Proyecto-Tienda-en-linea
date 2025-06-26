@@ -3,7 +3,9 @@ Desarrollar una página web o una tienda en línea cuyo fin es vender productos 
 
 
 Nombre Completo: Jose Manuel Briones Hernandez
+
 Posición Deseada: Fullstack 
+
 Nivel de Conocimiento en Lenguajes:
   - HTML5: 90%
   - CSS: 85%
@@ -12,6 +14,8 @@ Nivel de Conocimiento en Lenguajes:
   - JavaScript: 90%
   - Sass: 70%
   - UX/UI: 60%
+
 Correo de Contacto: josembrionesher@gmail.com
+
 Página de Internet/Referencias: (opcional, tuportafolio.com)
 
