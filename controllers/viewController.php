@@ -12,7 +12,7 @@ class ViewController extends ViewModels {
             $view = explode("/", $_GET["views"]);
             $response = ViewModels::getView($view[0]);
         } else {
-            $response = "login";
+            $response = ViewModels::getView("home");
         }
         
             return $response;

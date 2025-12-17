@@ -17,12 +17,16 @@
           <a class="nav-link" href="<?php echo APP_URL?>products">Productos</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#">Contacto</a>
+          <a class="nav-link" href="#contact">Contacto</a>
         </li>
         <li class="nav-item">
+          <a href="<?php echo APP_URL?>cart">
             <i class="fa-solid fa-cart-shopping"></i>          
-        
+          </a>
+          <a href="<?php echo APP_URL?>account">
             <i class="fa-duotone fa-solid fa-user"></i> 
+          </a>
+        
         </li>
 
       </ul>
